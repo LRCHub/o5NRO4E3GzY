@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "crack",
+  "base_artist": "LOLUET",
+  "createdAt": "2026-03-03T08:20:42.402548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crack A Bottle",
+      "artist": "50 Cent feat. Dr. Dre & Eminem",
+      "has_synced": true,
+      "path": "select/01_Crack_A_Bottle_50_Cent_feat._Dr._Dre_&_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crack A Bottle (Feat. Dr. Dre & 50 Cent)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Crack_A_Bottle_(Feat._Dr._Dre_&_50_Cent)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crack Baby",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/03_Crack_Baby_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crack the Skye",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/04_Crack_the_Skye_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ten Crack Commandments",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/05_Ten_Crack_Commandments_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crack a Bottle",
+      "artist": "Eminem feat. Dr. Dre & 50 Cent",
+      "has_synced": true,
+      "path": "select/06_Crack_a_Bottle_Eminem_feat._Dr._Dre_&_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CRACK THE RIDDLE",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/07_CRACK_THE_RIDDLE_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crack the Sky",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/08_Crack_the_Sky_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Crack It) Something Going On",
+      "artist": "Bomfunk MC's & Jessica Folcker",
+      "has_synced": true,
+      "path": "select/09_(Crack_It)_Something_Going_On_Bomfunk_MC's_&_Jessica_Folcker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Crack It) Something Going On",
+      "artist": "Bomfunk MC's, Jessica Folker",
+      "has_synced": true,
+      "path": "select/10_(Crack_It)_Something_Going_On_Bomfunk_MC's,_Jessica_Folker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crack in the Pavement",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/11_Crack_in_the_Pavement_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Crack Me Up",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/12_You_Crack_Me_Up_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crack Up",
+      "artist": "A.R. Kane",
+      "has_synced": true,
+      "path": "select/13_Crack_Up_A.R._Kane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crack Up",
+      "artist": "A.R. Kane",
+      "has_synced": false,
+      "path": "select/14_Crack_Up_A.R._Kane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crack Attack",
+      "artist": "Grace Jones",
+      "has_synced": true,
+      "path": "select/15_Crack_Attack_Grace_Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Crack in the Sea",
+      "artist": "Boy Eats Drum Machine",
+      "has_synced": false,
+      "path": "select/16_The_Crack_in_the_Sea_Boy_Eats_Drum_Machine.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crack It Open",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/17_Crack_It_Open_The_Notwist.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crack",
+      "artist": "LOLUET",
+      "has_synced": false,
+      "path": "select/pl_01_crack_LOLUET.txt"
+    }
+  ]
+}
